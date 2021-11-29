@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GemmaHannaby
+- 👀 I’m interested in Test Automation
+- 🌱 I’m currently learning Python
